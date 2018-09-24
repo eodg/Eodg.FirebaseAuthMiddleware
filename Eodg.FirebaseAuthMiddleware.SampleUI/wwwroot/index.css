@@ -1,0 +1,17 @@
+#sign-in-buttons, #sign-out-button {
+    display: none;
+}
+
+#status-log {
+    height: 600px;
+    overflow: scroll;
+}
+
+.code {
+    width: inherit;
+    height: 300px;
+}
+
+.row {
+    padding-top: 1em;
+}
